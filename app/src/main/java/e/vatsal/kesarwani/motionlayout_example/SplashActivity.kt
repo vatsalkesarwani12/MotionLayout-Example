@@ -21,6 +21,7 @@ class SplashActivity : AppCompatActivity() {
             Motion1Activity.start(
                 this
             )
+            finish()
         },
             TIME_LIMIT
         )
