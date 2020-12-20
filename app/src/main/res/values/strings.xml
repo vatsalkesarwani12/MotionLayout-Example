@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MotionLayout-Example</string>
     <string name="built_with_by_vatsal">Built with ❤ by Vatsal</string>
+    <string name="vatsal_kesarwani">Vatsal Kesarwani</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="kesarwanivatsal">KesarwaniVatsal</string>
+    <string name="_145_following_119_followers">145 Following 119 Followers</string>
+    <string name="location">Location</string>
+    <string name="android_developer_nwoc_20_mentor_kwoc_20_mentor_mentor_woc_20_member_at_tesseractcoding_codechef_chapter_lead_open_source_enthusiast">📱Android Developer 🌟 NWoC\'20 Mentor 🌟 KWoC\'20 Mentor 🌟 Mentor WoC\'20 🌟 Member at @TesseractCoding ✨ Codechef Chapter Lead 👨‍💻 Open Source Enthusiast</string>
 </resources>
