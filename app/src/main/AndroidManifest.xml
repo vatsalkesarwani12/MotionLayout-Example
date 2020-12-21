@@ -9,11 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MotionLayoutExample">
-        <activity android:name=".Motion2Activity"
-            android:theme="@style/Theme.MotionLayoutExample.NoActionBar"/>
-        <activity android:name=".Motion1Activity"
-            android:theme="@style/Theme.MotionLayoutExample.NoActionBar"/>
-        <activity android:name=".SplashActivity"
+        <activity android:name=".Motion3Activity"></activity>
+        <activity
+            android:name=".Motion2Activity"
+            android:theme="@style/Theme.MotionLayoutExample.NoActionBar" />
+        <activity
+            android:name=".Motion1Activity"
+            android:theme="@style/Theme.MotionLayoutExample.NoActionBar" />
+        <activity
+            android:name=".SplashActivity"
             android:theme="@style/Theme.MotionLayoutExample.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

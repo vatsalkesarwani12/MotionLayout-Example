@@ -10,6 +10,7 @@ import android.view.MenuItem
 import android.view.View.inflate
 import android.widget.ImageView
 import android.widget.Toolbar
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class Motion2Activity : AppCompatActivity() {
 
@@ -25,9 +26,12 @@ class Motion2Activity : AppCompatActivity() {
         setSupportActionBar(findViewById(R.id.toolbar1))
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
-        findViewById<ImageView>(R.id.imageView2).setOnClickListener{
-
+        findViewById<FloatingActionButton>(R.id.floatingActionButton2).setOnClickListener{
+            Motion3Activity.start(
+                    this
+            )
         }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
