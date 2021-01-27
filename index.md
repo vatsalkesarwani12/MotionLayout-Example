@@ -20,19 +20,19 @@ Currentlty showcasing 5 motion layout examples.
 
 # Layouts
 ### Motion Layout 1
-<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout1.gif" width="300" height="600" />
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/gh-pages/AppGifs/layout1.gif" width="300" height="600" />
 
 ### Motion Layout 2
-<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout2.gif" width="300" height="600" />
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/gh-pages/AppGifs/layout2.gif" width="300" height="600" />
 
 ### Motion Layout 3
-<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout3.gif" width="300" height="600" />
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/gh-pages/AppGifs/layout3.gif" width="300" height="600" />
 
 ### Motion Layout 4
-<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout4.gif" width="300" height="600" />
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/gh-pages/AppGifs/layout4.gif" width="300" height="600" />
 
 ### Motion Layout 5
-<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout5.gif" width="300" height="600" />
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/gh-pages/AppGifs/layout5.gif" width="300" height="600" />
 
 
 ## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
