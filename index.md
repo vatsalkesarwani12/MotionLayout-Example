@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to MotionLayout-Example
+**MotionLayout** is a new class available in the ConstraintLayout 2.0+ library to help Android developers manage motion and widget animation in their application.
 
-You can use the [editor on GitHub](https://github.com/plazzy99/MotionLayout-Example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Top Features of the App
+Currentlty showcasing 5 motion layout examples.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technology
+1. Android
+2. Motion-Layout
+3. Constrain-Layout 2.0.4
+4. Motion-Scene
+5. Material I/O
 
-### Markdown
+## Requirements
+1. Android Version 5.0 and above
+2. Constraint Layout version 2.0+
+3. compileSdkVersion 30
+4. minSdkVersion 21
+5. androidx
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Layouts
+### Motion Layout 1
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout1.gif" width="300" height="600" />
 
-```markdown
-Syntax highlighted code block
+### Motion Layout 2
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout2.gif" width="300" height="600" />
 
-# Header 1
-## Header 2
-### Header 3
+### Motion Layout 3
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout3.gif" width="300" height="600" />
 
-- Bulleted
-- List
+### Motion Layout 4
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout4.gif" width="300" height="600" />
 
-1. Numbered
-2. List
+### Motion Layout 5
+<img src="https://github.com/plazzy99/MotionLayout-Example/blob/master/AppGifs/layout5.gif" width="300" height="600" />
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="center">
+ <img src="https://camo.githubusercontent.com/d24f2f8414437a9491ea3145cafd373167315d50/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667"/> 
+  <img width="113" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
+  <img src="https://camo.githubusercontent.com/e82fcde6b4952d69611ae4cf507b13fe6ae8e028/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d666f722d616e64726f69642e737667"/>
+</p>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plazzy99/MotionLayout-Example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2 align="center">Made with ❤ by Vatsal Kesarwani</h2>
